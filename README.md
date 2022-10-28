@@ -25,15 +25,18 @@ Figure 1: Concept diagram of stacking: Make predictions for the Testing/Validati
 
 to integrate the predictions of these basic classifications using decision tree (DT), K-Nearest Neighbor
 (k-NN), and Random Forest (RF) as the basic classifications.
+
 • k-NN(k-nearest neighbor)
 The supervised machine learning technique known as the k-nearest neighbors (k-NN) can be
 used to tackle classification and regression issues. It is simple to use and comprehend, but
 it has the important problem of becoming noticeably slower as the amount of data in use
 increases.
+
 • RF(random forest)
 Random forests, also known as random choice forests, are an ensemble learning method for
 classification, regression, and other tasks that works by building a large number of decision
 trees during training.
+
 • DT(decision tree)
 In statistics, data mining, and machine learning, decision tree learning is a supervised learning
 approach. In this formalization, inferences about a set of data are made using a classification
