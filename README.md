@@ -1,7 +1,7 @@
 # ADM-Project
-Algorithmics for Data Mining Project-04
+**Algorithmics for Data Mining Project**
  
-Deliverable 4: Comparing the results of Stacking methods of two distinct datasets
+**Deliverable 4: Comparing the results of Stacking methods of two distinct datasets**
 
 We can think of stacking as the process of combining various machine learning models. For
 ensemble models, there are several different techniques that can be used, including stacking,
